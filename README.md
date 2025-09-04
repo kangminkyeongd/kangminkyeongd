@@ -2,8 +2,8 @@
 <img src="https://cdn.imweb.me/thumbnail/20240810/cb93f91c90672.png" width="100%" height="auto"/>
 <p align="center">
 
-- 
+- 강민경
 
   <img src="" width="100%"/>
 
-</p>
+'npm install -g@google-cli'
