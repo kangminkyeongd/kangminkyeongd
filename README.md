@@ -3,7 +3,3 @@
 <p align="center">
 
 - 강민경
-
-  <img src="" width="100%"/>
-
-'npm install -g@google-cli'
