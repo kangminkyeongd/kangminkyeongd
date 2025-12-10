@@ -32,6 +32,36 @@
   </a>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangminkyeongd)](https://solved.ac/kangminkyeongd)
+<div align="center">
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kangminkyeongd&theme=warm)
+  <h2>👋 Hi there! I'm Minkyeong</h2>
+  <p>오늘도 꾸준히 성장하는 개발자입니다.</p>
+
+  <br/>
+
+  <div>
+    <a href="https://solved.ac/kangminkyeongd">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kangminkyeongd" height="150" alt="Solved.ac Profile"/>
+    </a>
+    <img src="http://mazandi.herokuapp.com/api?handle=kangminkyeongd&theme=warm" height="150" alt="Mazandi Profile"/>
+  </div>
+
+  <br/>
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=kangminkyeongd&show_icons=true&theme=radical" height="150" alt="github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangminkyeongd&layout=compact&theme=radical" height="150" alt="top langs"/>
+  </div>
+
+  <br/>
+
+  <h3>🛠️ Tech Stack</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </div>
+
+</div>
