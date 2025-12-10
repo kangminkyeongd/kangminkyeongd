@@ -32,4 +32,6 @@
   </a>
 </div>
 
- <img src="http://mazandi.herokuapp.com/api?handle={kangminkyeongd}&theme=warm"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangminkyeongd)](https://solved.ac/kangminkyeongd)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kangminkyeongd&theme=warm)
